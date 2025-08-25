@@ -1,6 +1,6 @@
-Namma Yatri Case Study
+# Namma Yatri Case Study
 
-# Overview
+## Overview
 This project explores the Namma Yatri dataset to analyze ride patterns, customer and driver behavior, payment methods, and cancellations. 
 The goal is to deliver actionable insights through structured analysis and visualization.
 
